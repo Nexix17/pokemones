@@ -1,0 +1,16 @@
+#camera
+{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
+
+body
+{
+    background-color:white;
+}
+
+.heading
+{
+    background-color:rgb(0, 68, 255);
+}
